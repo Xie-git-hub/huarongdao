@@ -1,5 +1,4 @@
 # coding:utf-8 #
-
 from random import *    #导入随机数模块
 from tkinter import *   #导入图形化用户界面模块
 step_number = 0     #设置步数的变量，初始值为0
